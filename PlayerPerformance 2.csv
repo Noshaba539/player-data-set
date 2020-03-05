@@ -1,0 +1,53 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+sachin tendulkar,8-Feb-94,Test,srilanka,loss,yes,no,india,good,good,good,sunny,dry,in,4,6
+sachin tendulkar,18-Nov-94,Test,west indies,win,yes,no,india,good,average,average,sunny,dry,in,4,34
+sachin tendulkar,18-Nov-94,Test,west indies,loss,no,yes,india,average,good,average,sunny,greeny,in,4,85
+sachin tendulkar,18-Oct-95,Test,new zealand,loss,no,yes,india,good,good,bad,sunny,dry,in,5,4
+sachin tendulkar,18-Oct-95,Test,new zealand,loss,no,yes,india,average,good,bad,overcast,dry,in,4,0
+sachin tendulkar,10-Oct-96,Test,australia,loss,no,yes,india,bad,bad,bad,overcast,dry,out,5,10
+sachin tendulkar,10-Oct-96,Test,australia,loss,no,yes,india,bad,bad,bad,sunny,dust,out,5,0
+sachin tendulkar,8-Dec-96,Test,south africa,win,yes,no,india,bad,bad,average,rainy,greeny,out,5,42
+sachin tendulkar,8-Dec-96,Test,south africa,loss,no,yes,india,average,bad,good,sunny,greeny,in,4,7
+sachin tendulkar,11-Mar-01,Test,south africa,win,yes,no,india,average,bad,good,sunny,hard,in,4,61
+sachin tendulkar,11-Mar-01,Test,south africa,loss,no,yes,india,average,good,average,sunny,hard,in,4,36
+sachin tendulkar,18-Mar-01,Test,australia,loss,no,yes,india,good,good,average,rainy,hard,in,4,10
+sachin tendulkar,18-Mar-01,Test,australia,loss,no,yes,india,average,good,good,rainy,hard,in,4,10
+sachin tendulkar,7-Jun-01,Test,australia,loss,no,yes,india,bad,bad,good,overcast,dry,out,4,126
+sachin tendulkar,6-Nov-08,Test,australia,loss,yes,no,india,average,good,good,overcast,dry,out,5,17
+sachin tendulkar,1-Dec-08,Test,australia,loss,no,yes,india,average,good,good,sunny,dust,out,5,74
+sachin tendulkar,1-Dec-08,Test,zimbabwe,loss,no,yes,india,average,good,good,sunny,dust,out,4,12
+sachin tendulkar,18-Mar-09,Test,australia,loss,no,yes,india,average,good,good,sunny,hard,in,4,37
+sachin tendulkar,26-Dec-92,Test,englan chennai,loss,yes,no,india,average,good,good,rainy,hard,in,4,103
+sachin tendulkar,10-Dec-94,Test,englan chennai,loss,yes,no,none,good,good,good,rainy,greeny,in,4,160
+sachin tendulkar,2-Jan-97,Test,new zealand,loss,no,yes,none,good,good,good,sunny,greeny,in,4,0
+sachin tendulkar,2-Jan-97,Test,south africa,loss,no,yes,india,average,good,good,sunny,dry,out,5,40
+sachin tendulkar,27-Mar-97,Test,west indies,loss,yes,no,none,average,good,good,rainy,dry,out,4,169
+sachin tendulkar,27-Mar-97,Test,south africa,loss,no,yes,south africa,good,good,good,rainy,dry,in,4,9
+sachin tendulkar,25-Mar-98,Test,south africa,loss,yes,no,none,average,good,good,rainy,dust,in,4,92
+sachin tendulkar,25-Mar-98,Test,west indies,loss,no,yes,none,average,good,good,overcast,dust,in,5,4
+sachin tendulkar,7-Oct-98,Test,west indies,loss,no,yes,none,average,good,good,overcast,dust,in,4,177
+sachin tendulkar,7-Oct-98,Test,australia,win,yes,no,none,average,good,average,sunny,greeny,in,4,31
+sachin tendulkar,26-Dec-98,Test,zimbabwe,loss,no,yes,zimbabwe,good,good,bad,sunny,greeny,out,4,34
+sachin tendulkar,26-Dec-98,Test,new zealand,loss,no,yes,new zealand,good,good,average,sunny,hard,out,4,7
+sachin tendulkar,28-Jan-99,Test,new zealand,loss,no,yes,new zealand,average,bad,good,overcast,hard,out,4,47
+sachin tendulkar,28-Jan-99,Test,pakistan ,loss,no,yes,india,average,bad,good,overcast,hard,in,5,113
+sachin tendulkar,16-Feb-99,Test,pakistan ,loss,yes,no,india,good,good,good,sunny,dust,in,5,0
+sachin tendulkar,16-Feb-99,Test,pakistan ,loss,no,yes,india,average,good,good,sunny,dust,in,4,136
+sachin tendulkar,10-Dec-99,Test,pakistan ,loss,no,yes,india,average,good,average,sunny,dust,in,4,0
+sachin tendulkar,10-Dec-99,Test,australia,win,yes,no,autrailia,average,good,bad,sunny,dry,in,4,9
+sachin tendulkar,26-Dec-99,Test,australia,loss,no,yes,austrailia,bad,good,average,overcast,dry,in,4,61
+sachin tendulkar,26-Dec-99,Test,australia,win,yes,no,austrailia,average,bad,good,overcast,greeny,out,4,0
+sachin tendulkar,2-Jan-00,Test,australia,loss,no,yes,austrailia,average,bad,good,rainy,greeny,out,4,116
+sachin tendulkar,2-Jan-00,Test,south africa,loss,no,yes,none,average,good,good,rainy,greeny,out,4,52
+sachin tendulkar,24-Feb-00,Test,south africa,win,yes,no,none,good,good,good,overcast,dust,in,4,45
+sachin tendulkar,24-Feb-00,Test,south africa,loss,no,yes,india,good,good,good,sunny,dry,in,4,4
+sachin tendulkar,2-Mar-00,Test,australia,loss,no,yes,india,average,good,good,sunny,dry,in,5,97
+sachin tendulkar,2-Mar-00,Test,australia,win,yes,no,india,average,good,average,sunny,dry,in,5,8
+sachin tendulkar,27-Feb-01,Test,zimbabwe,loss,no,yes,india,average,good,average,sunny,dust,in,4,21
+sachin tendulkar,27-Feb-01,Test,zimbabwe,loss,no,yes,india,bad,good,good,sunny,greeny,out,4,20
+sachin tendulkar,15-Jun-01,Test,south africa,win,yes,no,india,bad,bad,good,rainy,greeny,out,4,76
+sachin tendulkar,15-Jun-01,Test,south africa,loss,no,yes,none,average,good,FALSE,rainy,dry,out,4,65
+sachin tendulkar,3-Nov-01,Test,west indies,loss,no,yes,none,good,good,FALSE,sunny,dry,out,4,20
+sachin tendulkar,3-Nov-01,Test,west indies,loss,no,yes,none,average,good,FALSE,sunny,dry,in,5,69
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
